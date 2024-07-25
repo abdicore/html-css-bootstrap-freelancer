@@ -45,3 +45,9 @@ img {
 .col-12 img {
     height: 300px;
 }
+
+#contact ::placeholder {
+    color: black;
+}
+
+
