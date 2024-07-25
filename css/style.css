@@ -33,3 +33,15 @@
 .bg-exdark-blu {
     background-color:#2c3e50;
 }
+
+.fontsize {
+    font-size: calc(0.7rem + .6vw);
+}
+
+img {
+    max-width: 100%;
+}
+
+.col-12 img {
+    height: 300px;
+}
